@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "title": "Cómo poner a punto tu servidor",
+        "body": "Para poner a punto tu servidor, deberás seguir los siguientes pasos.......",
+        "status": "published"
+    },
+    {
+        "id": 1,
+        "title": "Hola mundo",
+        "body": "Este es un posteo de prueba para ver si los posteos de prueba funcionan posteo de prueba. Posteo de prueba.",
+        "status": "published"
+    },
+    {
+        "id": 2,
+        "title": "Derivando",
+        "body": "La derivada de una función en un punto es la variación instantánea de una función en ese punto. Se podría interpretar geométricamente como la pendiente a la recta tangente a la curva trazada por la gráfica en el punto en cuestión.",
+        "status": "draft"
+    },{
+        "id": 3,
+        "title": "Cómo poner a punto tu servidorCómo poner a punto tu servidor",
+        "body": "Para poner a punto tu servidor, deberás seguir los siguientes pasos....... pasos....... pasos....... pasos....... pasos.......",
+        "status": "draft"
+    }
+]
